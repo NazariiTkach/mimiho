@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NAzariiTkach.github.io/mimiho",
+  "homepage": "https://NazariiTkach.github.io/mimiho",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /mimiho/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NAzariiTkach.github/mimiho.git"
+    "url": "git+https://github.com/NazariiTkach.github/mimiho.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
